@@ -1,19 +1,19 @@
 @font-face {
 	font-family: Avenir;
-	src: url('../macfonts/ttc/Avenir.ttc');
+	src: url('../macfonts/Avenir/ttc/Avenir.ttc');
 }
 
 @font-face {
 	font-family: Avenir-Light;
-	src: url('../macfonts/Avenir-Light.ttf');
+	src: url('../macfonts/Avenir/Avenir-Light.ttf');
 }
 
 @font-face {
 	font-family: Avenir-Medium;
-	src: url('../macfonts/Avenir-Medium.ttf');
+	src: url('../macfonts/Avenir/Avenir-Medium.ttf');
 }
 
 @font-face {
 	font-family: Avenir-Heavy;
-	src: url('../macfonts/Avenir-Heavy.ttf');
+	src: url('../macfonts/Avenir/Avenir-Heavy.ttf');
 }
