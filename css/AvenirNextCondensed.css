@@ -1,0 +1,24 @@
+@font-face {
+	font-family: AvenirNextCondensed;
+	src: url('../macfonts/Avenir Next Condensed/AvenirNextCondensed-Regular.ttf');
+}
+
+@font-face {
+	font-family: AvenirNextCondensed-UltraLight;
+	src: url('../macfonts/Avenir Next Condensed/AvenirNextCondensed-UltraLight.ttf');
+}
+
+@font-face {
+	font-family: AvenirNextCondensed-Medium;
+	src: url('../macfonts/Avenir Next Condensed/AvenirNextCondensed-Medium.ttf');
+}
+
+@font-face {
+	font-family: AvenirNextCondensed-DemiBold;
+	src: url('../macfonts/Avenir Next Condensed/AvenirNextCondensed-DemiBold.ttf');
+}
+
+@font-face {
+	font-family: AvenirNextCondensed-Heavy;
+	src: url('../macfonts/Avenir Next Condensed/AvenirNextCondensed-Heavy.ttf');
+}
